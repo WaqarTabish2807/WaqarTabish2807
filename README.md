@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqartabish2807&label=Profile%20views&color=0e75b6&style=flat" alt="waqartabish2807" /> </p>
 
-
 <p align="left"> <a href="https://twitter.com/iamwaqs" target="blank"><img src="https://img.shields.io/twitter/follow/iamwaqs?logo=twitter&style=for-the-badge" alt="iamwaqs" /></a> </p>
 
 - 🔭 I’m currently working on **Whiteboard**
@@ -37,5 +36,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqartabish2807&" alt="waqartabish2807" /></p>
 
 <p align="center">
-  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/waqartabish2807/waqartabish2807/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
