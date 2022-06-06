@@ -16,9 +16,7 @@
 - 📫 How to reach me **waqs2807@gmail.com**
 
 - ⚡ Fun fact **I am a speedcuber.**
-
-<br><br>
-
+<br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
