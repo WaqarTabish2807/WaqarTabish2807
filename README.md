@@ -36,5 +36,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqartabish2807&" alt="waqartabish2807" /></p>
 
 <p align="center">
-  <img src="https://github.com/waqartabish2807/waqartabish2807/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
