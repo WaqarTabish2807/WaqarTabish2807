@@ -30,7 +30,7 @@
 </p>
 </hr>
 
-<br>
+<hr></hr>
 
 <p>
 <a align= "center" href="https://github.com/waqartabish2807">
