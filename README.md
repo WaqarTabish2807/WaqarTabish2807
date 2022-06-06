@@ -37,3 +37,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqartabish2807&show_icons=true&locale=en" alt="waqartabish2807" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqartabish2807&" alt="waqartabish2807" /></p>
+
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
