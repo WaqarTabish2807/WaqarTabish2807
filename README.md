@@ -40,8 +40,6 @@
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=waqartabish2807&count_private=true&theme=maroongold&show_icons=true" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=waqartabish2807)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
