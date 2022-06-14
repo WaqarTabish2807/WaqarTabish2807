@@ -34,8 +34,8 @@
 <hr></hr>
 
 <p>
-<a display= "flex" text-align= "center" justify-content= "center" href="https://github.com/waqartabish2807">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waqartabish2807&theme=highcontrast">
+<a href="https://github.com/waqartabish2807">
+<img display= "flex" text-align= "center" justify-content= "center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waqartabish2807&theme=highcontrast">
 <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=waqartabish2807&count_private=true&theme=maroongold&show_icons=true" />
