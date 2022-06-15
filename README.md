@@ -36,8 +36,10 @@
 <p align="center">
 <a href="https://github.com/waqartabish2807">
 <img align="center" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=waqartabish2807&theme=highcontrast">
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=waqartabish2807&count_private=true&theme=maroongold&show_icons=true" />
-</p>
+         </p>
+<p align="center">
+         <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=waqartabish2807&count_private=true&theme=maroongold&show_icons=true" /> </p>
+
 
 <p align="center">
   <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
