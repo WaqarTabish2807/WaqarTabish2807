@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamwaqs" target="blank"><img src="https://img.shields.io/twitter/follow/iamwaqs?logo=twitter&style=for-the-badge" alt="iamwaqs" /></a> </p>
 
-- 🔭 I’m currently working on **Whiteboard**
+- 🔭 I’m currently working on **[Product verification DAPP](https://github.com/WaqarTabish2807/OSC-Product-Verification-DAPP)**
 
 - 🌱 I’m currently learning **React**
 
