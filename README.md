@@ -2,7 +2,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Md Waqar Tabish</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">You'll see me painting the web with my code like I'm Da Vinci</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqartabish2807&label=Profile%20views&color=0e75b6&style=flat" alt="waqartabish2807" /> </p>
 
