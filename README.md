@@ -10,11 +10,7 @@
 
 - 🔭 I’m currently working on **[Product verification DAPP](https://github.com/WaqarTabish2807/OSC-Product-Verification-DAPP)**
 
-- 🌱 I’m currently learning **React**
-
 - 📝 I regularly write articles on [https://learncapsuleunderme.blogspot.com/](https://learncapsuleunderme.blogspot.com/)
-
-- 💬 Ask me about **JS, MongoDB, Express, NodeJs**
 
 - 📫 How to reach me **waqs2807@gmail.com**
 
