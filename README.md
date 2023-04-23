@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[Portify](https://github.com/WaqarTabish2807/Portify)**
 
-- 📝 I regularly write articles on [https://learncapsuleunderme.blogspot.com/](https://learncapsuleunderme.blogspot.com/)
+- 📝 I regularly write case studies on [Twitter](https://twitter.com/iamwaqs) and paint vectors on [Instagram](https://www.instagram.com/vector.guy_/)
 
 - 📫 How to reach me **waqs2807@gmail.com**
 
