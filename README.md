@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[Portify](https://github.com/WaqarTabish2807/Portify)**
 
-- Shifting to Flutterflow, and No & low Code.
+- Learing No & low Code #bubble.
 
 - 📝 I regularly write case studies on [Twitter](https://twitter.com/iamwaqs) and paint vectors on [Instagram](https://www.instagram.com/vector.guy_/)
 
