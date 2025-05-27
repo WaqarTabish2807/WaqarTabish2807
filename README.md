@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamwaqs" target="blank"><img src="https://img.shields.io/twitter/follow/iamwaqs?logo=twitter&style=for-the-badge" alt="iamwaqs" /></a> </p>
 
-- 🔭 I’m currently working on **[Keyword Optimiser](https://github.com/WaqarTabish2807/KeywordPro)**
+- 🔭 I’m currently working on **[Shortify](https://github.com/najar2807/Shortify)**
 
 - Learing No & low Code #bubble.
 
